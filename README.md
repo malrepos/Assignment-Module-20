@@ -46,17 +46,17 @@ This project creates a joint savings account using a smart contract and the Ethe
 
 The contract was deployed successfully:
 
-![](Execution_Results\deployed_contract.JPG)
+![](https://github.com/malrepos/Assignment-Module-20/blob/main/Execution_Results/deployed_contract.JPG)
 
-![](Execution_Results\deployed_contract_log.JPG)
+![](https://github.com/malrepos/Assignment-Module-20/blob/main/Execution_Results/deployed_contract_log.JPG)
 
 ---
 
 Using the setAccounts function, the authorized ethereum addresses were set:
 
-![](Execution_Results\setAccounts_function.JPG)
+![](/Execution_Results\setAccounts_function.JPG)
 
-![](Execution_Results\setAccounts_function_log.JPG)
+![](/Execution_Results\setAccounts_function_log.JPG)
 
 ---
 
@@ -64,21 +64,21 @@ The deposit functionality of the contract was tested:
 
 Transaction 1:
 
-![](Execution_Results\transaction_1.JPG)
+![](/Execution_Results\transaction_1.JPG)
 
-![](Execution_Results\transaction_1_log.JPG)
+![](/Execution_Results\transaction_1_log.JPG)
 
 Transaction 2:
 
-![](Execution_Results\transaction_2.JPG)
+![](/Execution_Results\transaction_2.JPG)
 
-![](Execution_Results\transaction_2_log.JPG)
+![](/Execution_Results\transaction_2_log.JPG)
 
 Transaction 3:
 
-![](Execution_Results\transaction_3.JPG)
+![](/Execution_Results\transaction_3.JPG)
 
-![](Execution_Results\transaction_3_log.JPG)
+![](/Execution_Results\transaction_3_log.JPG)
 
 ---
 
@@ -86,15 +86,15 @@ The contracts withdrawal function was tested:
 
 Withdrawal 1:
 
-![](Execution_Results\withdrawal_1.JPG)
+![](/Execution_Results\withdrawal_1.JPG)
 
-![](Execution_Results\withdrawal_1_log.JPG)
+![](/Execution_Results\withdrawal_1_log.JPG)
 
 Withdrawal 2:
 
-![](Execution_Results\withdrawal_2.JPG)
+![](/Execution_Results\withdrawal_2.JPG)
 
-![](Execution_Results\withdrawal_2_log.JPG)
+![](/Execution_Results\withdrawal_2_log.JPG)
 
 ## Instructions
 
