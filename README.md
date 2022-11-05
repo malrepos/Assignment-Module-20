@@ -64,7 +64,7 @@ The deposit functionality of the contract was tested:
 
 Transaction 1:
 
-![](https://github.com/malrepos/Assignment-Module-20/blob/main/Execution_Results/transaction_2.JPG)
+![](https://github.com/malrepos/Assignment-Module-20/blob/main/Execution_Results/transaction_1.JPG)
 
 ![](https://github.com/malrepos/Assignment-Module-20/blob/main/Execution_Results/transaction_1_log.JPG)
 
@@ -98,6 +98,6 @@ Withdrawal 2:
 
 ## Instructions
 
-- Copy and paste, or upload the code to the remix IDE.
+- Copy and paste, or upload the code to the remix IDE https://remix-project.org/.
 
 - Compile and deploy the contract.
